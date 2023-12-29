@@ -43,3 +43,5 @@ triton==2.1.0
 tzdata==2023.3
 urllib3==2.1.0
 nltk==3.8.1
+jupyter==1.0.0
+processtext==0.1.5
